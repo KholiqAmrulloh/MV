@@ -1,0 +1,12 @@
+127.0.0.1 - - [28/Aug/2021:17:44:59 +0700] "GET /dashboard/phpinfo.php HTTP/1.1" 200 82863 "http://localhost/dashboard/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+127.0.0.1 - - [28/Aug/2021:17:45:00 +0700] "GET /favicon.ico HTTP/1.1" 200 30894 "http://localhost/dashboard/phpinfo.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+::1 - - [28/Aug/2021:17:45:12 +0700] "GET /webpt/home HTTP/1.1" 200 14888
+::1 - - [28/Aug/2021:17:45:17 +0700] "GET /webpt/assets/css/custom.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+::1 - - [28/Aug/2021:17:45:17 +0700] "GET /webpt/assets/css/slit-slider.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+::1 - - [28/Aug/2021:17:45:18 +0700] "GET /webpt/assets/img/upload/bg21.jpg HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+::1 - - [28/Aug/2021:17:45:18 +0700] "GET /webpt/assets/img/upload/struktur2.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+::1 - - [28/Aug/2021:17:45:18 +0700] "GET /webpt/assets/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 404 1130 "http://localhost/webpt/assets/css/font-awesome.min.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+192.168.137.113 - - [28/Aug/2021:17:47:38 +0700] "GET / HTTP/1.1" 302 - "-" "Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/V11.0.2.0.NCFMIXM)"
+192.168.137.113 - - [28/Aug/2021:17:47:38 +0700] "GET /dashboard/ HTTP/1.1" 200 7576 "-" "Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/V11.0.2.0.NCFMIXM)"
+192.168.137.113 - - [28/Aug/2021:19:52:04 +0700] "GET / HTTP/1.1" 302 - "-" "Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/V11.0.2.0.NCFMIXM)"
+192.168.137.113 - - [28/Aug/2021:19:52:04 +0700] "GET /dashboard/ HTTP/1.1" 200 7576 "-" "Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/V11.0.2.0.NCFMIXM)"
